@@ -17,7 +17,7 @@ Spatial transcriptomics enables the characterization of tissue microenvironments
 
 # Architecture
 ![dasdsa](/framework.pdf)
-
+<img src="/framework.pdf" alt="" width="500" height="300">
 # Installation
 ## Requirements
 ```bash
