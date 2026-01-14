@@ -1,4 +1,4 @@
-<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/3d1c13e5-fde7-465d-9de8-bfd6e32e873e" /># ProPaST
+# ProPaST
 
 # Contents
   - [Overview](#overview)
