@@ -50,10 +50,10 @@ pip install -r requirements.txt
 The datasets are freely available at [data](XXXXX).
 
 # Usage
-Tutorial for Spatial Domain Identification : [Run.ipynb]
-Tutorial for Multi - Section Vertical Integration : []
-Tutorial for Multi - Section Horizontal Integration : 
-Tutorial for Cell Differentiation Trajectory Prediction :
+Tutorial for Spatial Domain Identification : [Run.ipynb]#()
+Tutorial for Multi - Section Vertical Integration : [integration_p.ipynb]
+Tutorial for Multi - Section Horizontal Integration : [Horizontal_integration.ipynb]
+Tutorial for Cell Differentiation Trajectory Prediction : [Trajectory.ipynb]
 
 # Key Functions
 <!-- 内容 -->
