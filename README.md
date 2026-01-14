@@ -1,4 +1,4 @@
-# ProPaST
+<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/3d1c13e5-fde7-465d-9de8-bfd6e32e873e" /># ProPaST
 
 # Contents
   - [Overview](#overview)
@@ -50,10 +50,10 @@ pip install -r requirements.txt
 The datasets are freely available at [data](XXXXX).
 
 # Usage
-Tutorial for Spatial Domain Identification : [Run.ipynb]#()
-Tutorial for Multi - Section Vertical Integration : [integration_p.ipynb]
-Tutorial for Multi - Section Horizontal Integration : [Horizontal_integration.ipynb]
-Tutorial for Cell Differentiation Trajectory Prediction : [Trajectory.ipynb]
+Tutorial for Spatial Domain Identification: [Run.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Run%20.ipynb)  
+Tutorial for Multi-Section Vertical Integration: [integration_p.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/integration_p.ipynb)  
+Tutorial for Multi-Section Horizontal Integration: [Horizontal_integration.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Horizontal_integration.ipynb)  
+Tutorial for Cell Differentiation Trajectory Prediction: [Trajectory.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Trajectory.ipynb)  
 
 # Key Functions
 <!-- 内容 -->
