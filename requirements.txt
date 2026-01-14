@@ -16,3 +16,7 @@ matplotlib==3.7.1
 seaborn==0.13.2
 tqdm==4.64.0
 rpy2==3.4.1
+https://github.com/QinlinMa/ProPaST/blob/main/Run%20.ipynb
+https://github.com/QinlinMa/ProPaST/blob/main/integration_p.ipynb
+https://github.com/QinlinMa/ProPaST/blob/main/Horizontal_integration.ipynb
+https://github.com/QinlinMa/ProPaST/blob/main/Trajectory.ipynb
