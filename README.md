@@ -19,10 +19,35 @@ Spatial transcriptomics enables the characterization of tissue microenvironments
 <!-- 内容 -->
 
 # Installation
-<!-- 内容 -->
-
+## Requirements
+```bash
+Python == 3.8
+torch==2.4.1+cu118
+torch-geometric==2.6.1
+numpy==1.22.3
+scipy==1.8.1
+pandas==1.5.3
+scikit-learn==1.1.1
+scanpy==1.9.8
+anndata==0.8.0
+networkx==3.0
+python-igraph==0.11.8
+leidenalg==0.10.2
+louvain==0.8.2
+POT==0.9.5
+matplotlib==3.7.1
+seaborn==0.13.2
+tqdm==4.64.0
+rpy2==3.4.1
+```
+## Installation
+```bash
+conda create -n ProPaST_env python=3.8
+conda activate ProPaST_env
+pip install -r requirements.txt
+```
 # Data availability
-<!-- 内容 -->
+The datasets are freely available at [data](XXXXX).
 
 # Usage
 <!-- 内容 -->
