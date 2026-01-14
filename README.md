@@ -55,9 +55,6 @@ Tutorial for Multi-Section Vertical Integration: [integration_p.ipynb](https://g
 Tutorial for Multi-Section Horizontal Integration: [Horizontal_integration.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Horizontal_integration.ipynb)  
 Tutorial for Cell Differentiation Trajectory Prediction: [Trajectory.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Trajectory.ipynb)  
 
-# Key Functions
-<!-- 内容 -->
-
 # Results
 <!-- 内容 -->
 
