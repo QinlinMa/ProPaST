@@ -60,3 +60,6 @@ Tutorial for Cell Differentiation Trajectory Prediction: [Trajectory.ipynb](http
 
 # Contact
 <!-- 内容 -->
+
+# License
+<!-- 内容 -->
