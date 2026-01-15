@@ -60,7 +60,7 @@ Across extensive benchmarks on both sequencing-based (10x Visium, Stereo-seq) an
 
 
 # Contact
-<!-- 内容 -->
+For correspondence and requests for materials, please contact:qinlinma528@nenu.edu.cn
 
 # License
 <!-- 内容 -->
