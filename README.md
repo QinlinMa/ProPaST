@@ -1,4 +1,4 @@
-# ProPaST
+# ProPaST:Technology-Agnostic Functional Niche Mapping for Spatial Heterogeneity and Gene Program Elucidation
 
 # Contents
   - [Overview](#overview)
