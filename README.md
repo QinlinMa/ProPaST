@@ -56,9 +56,6 @@ Tutorial for Multi-Section Vertical Integration: [integration_p.ipynb](https://g
 Tutorial for Multi-Section Horizontal Integration: [Horizontal_integration.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Horizontal_integration.ipynb)  
 Tutorial for Cell Differentiation Trajectory Prediction: [Trajectory.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Trajectory.ipynb)  
 
-# Results
-Across extensive benchmarks on both sequencing-based (10x Visium, Stereo-seq) and imaging-based (MERFISH, STARmap) spatial transcriptomics datasets, ProPaST consistently outperformed state-of-the-art methods in spatial domain identification, cross-sample integration, and trajectory inference. By learning platform-invariant, structure-preserving spot representations anchored to mesoscale niche prototypes, ProPaST accurately delineated biologically meaningful spatial domains while preserving fine-grained transcriptional heterogeneity. In multi-sample and cross-platform settings, ProPaST achieved robust batch correction and precise alignment of shared anatomical structures, including challenging integrations between FFPE and fresh-frozen tissues. Furthermore, ProPaST captured continuous spatiotemporal transitions of cell states, faithfully reconstructing developmental trajectories in embryonic brain data. In a metastatic breast cancer case study, ProPaST revealed coordinated tumor–immune–endothelial interactions and identified key receptor–ligand axes associated with angiogenesis, demonstrating its utility for uncovering clinically relevant microenvironmental mechanisms.
-
 
 # Contact
 For correspondence and requests for materials, please contact:qinlinma528@nenu.edu.cn
