@@ -48,7 +48,7 @@ conda activate ProPaST_env
 pip install -r requirements.txt
 ```
 # Data availability
-The datasets are freely available at [data](XXXXX).
+The datasets are freely available at [data](https://zenodo.org/records/18253702).
 
 # Usage
 Tutorial for Spatial Domain Identification: [Run.ipynb](https://github.com/QinlinMa/ProPaST/blob/main/Run%20.ipynb)  
