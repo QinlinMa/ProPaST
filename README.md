@@ -1,4 +1,4 @@
-# ProPaST:Technology-Agnostic Functional Niche Mapping for Spatial Heterogeneity and Gene Program Elucidation
+# ProPaST:Niche-State Anchoring of Spatial Transcriptomics Uncovers Context-Specific Programs of Tissue Compartmentalization and Morphogenesis
 
 # Contents
   - [Overview](#overview)
