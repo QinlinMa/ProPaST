@@ -17,7 +17,7 @@ Spatial transcriptomics (ST) is rapidly expanding across diverse sequencing- and
 
 
 # Architecture
-![framework](./framework.png)
+![framework](./framework.png](https://github.com/QinlinMa/ProPaST/blob/main/framework.png)
 
 # Installation
 ## Requirements
